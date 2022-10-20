@@ -3,9 +3,9 @@
 ## Tasks Already Done
 - [x] [Multi-tasking using context switch](https://github.com/Samillynn/realtime-os-multi-tasking)
 - [x] [IPC by message passing](https://github.com/Samillynn/realtime-os-IPC)
+- [x] [Hardware interrupt & System tick for regular re-scheduling](https://github.com/Samillynn/realtime-os-hardware-interrupt)
 
 ## Future Works
-- [ ] Hardware Interrupt
 - [ ] Serial I/O, UART Server
 
 ## Future Work for Real Train Controller
